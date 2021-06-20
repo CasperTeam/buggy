@@ -1,7 +1,20 @@
 {
-    "env": {
-        "HEROKU_APP_NAME": {
-            "description": "given app name to the heroku app",
-            "required": false},
-			}
+  "name": "bugbot",
+  "description": "A bot for tc bots.",
+  "keywords": [
+    "telegram",
+    "bot",
+    "plugin",
+    "productivity"
+  ],
+  "repository": "https://github.com/CasperTeam/buggy",
+  "website": "t.me/tcbugsbot",
+  "success_url": "t.me/FridayOT",
+  "stack": "container",
+  "env": {
+    "HEROKU_APP_NAME": {
+      "description": "Heroku App Name That You Filled Above.",
+      "value": ""
+    }
+  }
 }
