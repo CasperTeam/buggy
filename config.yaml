@@ -1,0 +1,25 @@
+# Telegram configuration
+telegram: true
+  
+  api_id: 5119765
+  api_hash: ab310ff746864c1a33f3c590f1598c06
+  token: 1866856130:AAEfzlwjJRvap74Y9ztFsImfuZLcp0Y1d5U
+spamwatch:
+  token: 3wBaiqrjWZKNGNymeOtbvm0CKG4WJPKO3YL3B8~X30y5IF8iT3Z3YtQI_n0iAVI_
+
+# Bot configuration
+bot:
+  # List of allowed chats ids.
+  allowed_chats:
+    - -1001246820081
+    - -1001362482317
+    - -1001173851829
+    - -1001289165491
+    - -1001390067401
+    - -1001198165933
+    - -1001319484169
+    - -1001366720969
+    - -1001187704847
+  suggesion_chat: -1001187704847
+  dispenser_urls:
+    -https://telegra.ph/Satya-06-19
