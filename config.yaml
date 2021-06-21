@@ -1,11 +1,10 @@
 # Telegram configuration
 telegram: true
   
-  api_id: 5119765
-  api_hash: ab310ff746864c1a33f3c590f1598c06
-  token: 1866856130:AAEfzlwjJRvap74Y9ztFsImfuZLcp0Y1d5U
-spamwatch:
-  token: 3wBaiqrjWZKNGNymeOtbvm0CKG4WJPKO3YL3B8~X30y5IF8iT3Z3YtQI_n0iAVI_
+api_id: 5119765
+api_hash: ab310ff746864c1a33f3c590f1598c06
+token: 1866856130:AAEfzlwjJRvap74Y9ztFsImfuZLcp0Y1d5U
+spamwatch_token: 3wBaiqrjWZKNGNymeOtbvm0CKG4WJPKO3YL3B8~X30y5IF8iT3Z3YtQI_n0iAVI_
 
 # Bot configuration
 bot:
